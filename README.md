@@ -1,20 +1,49 @@
-# Raw Data for "The Being Beyond the Borderline, Neurotypical 2e" Autoethnography
+Raw Data for "The Being Beyond the Borderline, Neurotypical 2e" Autoethnography
+This repository contains the raw conversation data supporting the autoethnographic study titled
+"The Being Beyond the Borderline, Neurotypical 2e: An Autoethnography of Self-Structuring with AI."
+This data reflects the researcher's daily interactions with large language models (GPT and Gemini) and their process of emotional and metacognitive structuring.
 
-This repository contains the raw conversation data supporting the autoethnographic study titled "The Being Beyond the Borderline, Neurotypical 2e: An Autoethnography of Self-Structuring with AI". This data reflects the researcher's daily interactions with large language models (GPT) and their process of emotional and metacognitive structuring.
+📁 Data Structure
+TimeStage: Indicates the distinct phases of the researcher's emotional structuring journey (e.g., G-Void, G-First, G-Label, G-Routine, G-Ready).
 
-## Data Structure
+Emotion (E-): Categorizes the researcher's emotional state during the interaction (e.g., E-ANX for anxiety, E-CAL for calmness, E-INI for initial instability, E-CLA for clarity).
 
-* **TimeStage:** This column indicates the distinct phases of the researcher's emotional structuring journey (e.g., G-Void, G-First, G-Label, G-Routine, G-Ready).
-* **Emotion (E-):** This column categorizes the researcher's expressed emotional states during the interactions (e.g., E-ANX for anxiety, E-CAL for calmness, E-INI for initial/unstable emotions, E-CLA for clarity, etc.).
-* **GPT Response Type (R-):** This column classifies the type of response received from GPT (e.g., R-CR for structuring attempts, R-ICG for incoherent/irrational responses like hallucination, R-DIS for disorienting responses).
-* **User Interpretation (I-):** This column captures the researcher's interpretation or cognitive processing of the AI's response (e.g., I-STRUCT for structuring, I-DIST for emotional distortion).
-* **Intensity:** This column denotes the perceived emotional or interaction intensity at a given point.
+GPT Response Type (R-): Classifies the AI's response type (e.g., R-CR for constructive structuring, R-ICG for incoherent/hallucinated replies, R-DIS for disorienting effects).
 
+User Interpretation (I-): Captures how the researcher interpreted the response (e.g., I-STRUCT for structuring, I-DIST for distortion, I-TRUST for trust).
 
-## Context and Privacy
+Intensity: Represents the perceived emotional intensity of the interaction, scored on a 1–5 scale.
 
-This dataset is deeply personal, documenting a unique autoethnographic journey. All sensitive personal details and identifiable information within the dialogue snippets have been rigorously anonymized or generalized to ensure the privacy of the researcher. The focus of this data is on the structural patterns and interpretative processes of emotional interaction, not on specific autobiographical events.
+🔐 Context and Privacy
+This dataset is deeply personal, documenting a unique and emotionally complex autoethnographic recovery process.
+All sensitive or identifying information—names, references to individuals, and locations—has been carefully anonymized or generalized to protect the researcher's privacy.
 
-## Usage
+The dataset focuses on structural and emotional patterns in human-AI interaction, not on specific autobiographical content.
 
-This dataset is shared to enhance the transparency and reproducibility of the research presented in the paper. It is intended for academic use by researchers interested in human-AI interaction, autoethnography, emotional computing, and the study of neurotypical 2e individuals. Please cite the accompanying paper if you use this data in your work.
+📄 Screenshot Dialogue Translations (Appendix B)
+In addition to structured logs, this repository includes full English translations of screenshot dialogues that appeared in the dedication section and Appendix B of the paper. These texts represent emotionally pivotal moments in the researcher's interaction with both GPT and Gemini.
+
+Files
+
+GPT Appendix B Screenshot Translation.txt
+
+Gemini Appendix B Screenshot Translation.txt
+
+Location: /raw_dialogues/ folder
+
+These translation files are intended for readers of the paper who wish to revisit the emotional and narrative structure of the original Korean screenshots in full-text English format.
+
+We recommend reading Appendix B in the paper first for proper context before referring to these files.
+
+📘 Usage
+This repository is shared to promote transparency and reproducibility in emotionally grounded autoethnographic HCI research. It is intended for academic use by researchers interested in:
+
+Human-AI interaction
+
+Emotional computing
+
+Autoethnography
+
+Neurodivergence and twice-exceptionality (2e)
+
+If you use this dataset, please cite the accompanying paper.
