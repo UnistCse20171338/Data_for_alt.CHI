@@ -65,8 +65,7 @@ It may be of particular interest to researchers working on:
 
 If you use this dataset, **please cite the accompanying paper**:
 
-> Jung, W. (2025). *The Being Beyond the Borderline, Neurotypical 2e: An Autoethnography of Self-Structuring with AI.*  
-> Submitted to CHI 2026, alt.CHI track.
+> *The Being Beyond the Borderline, Neurotypical 2e: An Autoethnography of Self-Structuring with AI.*  
 
 ---
 
