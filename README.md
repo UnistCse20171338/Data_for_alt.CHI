@@ -1,6 +1,6 @@
 # Raw Data Repository for Autoethnographic Study
 
-This repository provides raw data for the autoethnographic study, "**[Insert your paper title here, e.g., "Conversations with AI in Emotional Turmoil: Exploring AI as a Non-Linear Scaffold for Self-Structuring and Existential Recovery in Emotion-Based 2e Individuals"]**," to ensure research transparency and reproducibility. This study deeply explores the process of recovery and self-structuring through interaction with AI (GPT and Gemini), from the researcher's profound emotional and cognitive turmoil, adopting an autoethnographic perspective. The data included consists of various conversation logs and records encompassing the researcher's inner verbalization, emotional alignment, and metacognitive insights.
+This repository provides raw data for the autoethnographic study, to ensure research transparency and reproducibility. This study deeply explores the process of recovery and self-structuring through interaction with AI (GPT and Gemini), from the researcher's profound emotional and cognitive turmoil, adopting an autoethnographic perspective. The data included consists of various conversation logs and records encompassing the researcher's inner verbalization, emotional alignment, and metacognitive insights.
 
 ---
 
@@ -45,7 +45,7 @@ This data includes extremely personal and sensitive emotional records of the res
 
 # 자가민족지학 연구 원시 데이터 저장소 (Raw Data Repository for Autoethnographic Study)
 
-이 저장소는 [**본 연구 논문 제목 삽입, 예: "정서적 혼란 속 AI와의 대화: 감정 기반 2e 개인의 자기 구조화 및 실존적 회복을 위한 비선형적 스캐폴드로서의 AI 탐구"**]의 원시 데이터를 공개하여 연구의 투명성과 재현 가능성을 확보합니다. 본 연구는 연구자의 깊이 있는 정서적/인지적 혼란 속에서 AI(GPT 및 Gemini)와의 상호작용을 통해 진행된 회복과 자기 구조화 과정을 자가민족지학적 관점에서 심층적으로 탐구합니다. 여기에 포함된 데이터는 연구자의 내면 언어화, 감정 정렬, 메타인지적 통찰을 포함한 다양한 대화 로그와 기록물로 구성됩니다.
+이 저장소는 원시 데이터를 공개하여 연구의 투명성과 재현 가능성을 확보합니다. 본 연구는 연구자의 깊이 있는 정서적/인지적 혼란 속에서 AI(GPT 및 Gemini)와의 상호작용을 통해 진행된 회복과 자기 구조화 과정을 자가민족지학적 관점에서 심층적으로 탐구합니다. 여기에 포함된 데이터는 연구자의 내면 언어화, 감정 정렬, 메타인지적 통찰을 포함한 다양한 대화 로그와 기록물로 구성됩니다.
 
 ---
 
