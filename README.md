@@ -34,6 +34,10 @@ This repository contains raw data for key cases analyzed in detail within the ma
 
 **Note:** Within the screenshot and insight data, some expletive language (e.g., swear words) has been kept unblurred in its original form to directly convey the intense emotional states experienced by the researcher at that time. Please consider this when reviewing the data.
 
+### 2.3. Additional Analysis Graphs
+
+This section contains selected graphs generated during the data analysis process. While this repository aims for high transparency, **due to the extensive nature of the analysis, it is not feasible to include every single graph generated.** However, the included graphs are key visuals that complement the findings presented in the main paper and facilitate a deeper understanding of the analytical process and key data patterns. Files are typically in PNG or JPG format.
+
 ---
 
 ## 3. Ethical Considerations
@@ -78,6 +82,10 @@ This data includes extremely personal and sensitive emotional records of the res
 * **`appendixF_KR_fixed` (텍스트 파일):** 이 파일은 섹션 7.5에서 다룬 AI 정보 오류 발생 직후, **연구자가 약 30분 동안 진행한 통찰과 감정적 혼란, 그리고 메타인지적 구조화 과정을 담은 텍스트(TXT) 형태의 원시 기록**입니다. 파일명이 본문 섹션 번호와 직접적으로 일치하지 않고 (`appendixF_KR_fixed`로 유지된 것)은, 해당 파일이 **특정 통찰 과정의 원본 기록으로서의 고유한 가치와 맥락을 온전히 보존하기 위해 의도적으로 파일명을 변경하지 않았기 때문**입니다.
 
 **참고:** 위에 언급된 스크린샷 및 통찰 데이터 내에는 당시 연구자가 느꼈던 극심한 감정의 강렬함을 직접적으로 보여주기 위해 일부 원색적인 표현(욕설 등)이 블러 처리되지 않고 원본 그대로 유지되어 있습니다. 자료를 열람하실 때 이 점을 고려하여 이해해 주시면 감사하겠습니다.
+
+### **2.3. 추가 분석 그래프**
+
+이 섹션에는 데이터 분석 과정에서 생성된 일부 주요 그래프들이 포함되어 있습니다. 본 저장소는 높은 투명성을 지향하지만, **분석량의 방대함으로 인해 생성된 모든 그래프를 포함하는 것은 어렵습니다.** 그럼에도 불구하고, 포함된 그래프들은 본 논문의 주요 주장을 시각적으로 보완하고 분석 과정 및 핵심 데이터 패턴에 대한 심층적인 이해를 돕는 중요한 자료입니다. 파일은 일반적으로 PNG 또는 JPG 형식입니다.
 
 ---
 
